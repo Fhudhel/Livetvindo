@@ -1,0 +1,25 @@
+{
+  "short_name": "nontonTv",
+  "name": "NontonTv online indonesia",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "zee-bioskop.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "zee-bioskop.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ec7f0c",
+  "background_color": "#b7921a"
+}

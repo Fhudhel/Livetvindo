@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Livetvindo/static/css/main.7770da22.css",
+    "main.js": "/Livetvindo/static/js/main.bc1ae1bb.js",
+    "static/js/453.d2432240.chunk.js": "/Livetvindo/static/js/453.d2432240.chunk.js",
+    "index.html": "/Livetvindo/index.html",
+    "main.7770da22.css.map": "/Livetvindo/static/css/main.7770da22.css.map",
+    "main.bc1ae1bb.js.map": "/Livetvindo/static/js/main.bc1ae1bb.js.map",
+    "453.d2432240.chunk.js.map": "/Livetvindo/static/js/453.d2432240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7770da22.css",
+    "static/js/main.bc1ae1bb.js"
+  ]
+}
